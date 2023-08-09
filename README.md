@@ -31,7 +31,7 @@ Using the dictionary is simple and straightforward. Just type the word you're lo
 
 ## Installation
 
-No installation is required to use the Country Guide. You can access it by visiting our website [insert_website_link_here].
+No installation is required to use the Country Guide. You can access it by visiting our website https://arghya-bandyopadhyay30.github.io/Dictionary/.
 
 ## Search Functionality
 
